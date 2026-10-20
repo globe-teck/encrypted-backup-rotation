@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+reports/*
+!reports/report.md
+*.log
+.env
+reports/
+rotation.ini
+*.pass
