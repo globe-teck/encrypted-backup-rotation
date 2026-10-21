@@ -54,5 +54,10 @@ Tests mock the host and the cloud with local directories (`type = local` in the 
 full rotation, dry run, corrupt tarball, sha256 mismatch, retry, cloud md5 mismatch and a
 world-readable passphrase file.
 
+## Authorship
+
+Built with AI coding assistance. I defined the requirements, ran the tests, and reviewed the changes.
+
 ## License
-MIT
+
+MIT. See [LICENSE](LICENSE).
